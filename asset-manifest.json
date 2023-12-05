@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-quizz/static/css/main.a4aecc46.css",
+    "main.js": "/ai-quizz/static/js/main.e9174be6.js",
+    "index.html": "/ai-quizz/index.html",
+    "main.a4aecc46.css.map": "/ai-quizz/static/css/main.a4aecc46.css.map",
+    "main.e9174be6.js.map": "/ai-quizz/static/js/main.e9174be6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4aecc46.css",
+    "static/js/main.e9174be6.js"
+  ]
+}
